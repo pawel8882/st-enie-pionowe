@@ -1,0 +1,9 @@
+C:\Users\Paweł\Desktop\openAPI\aplikacje\stężenie pionowe\Stężenie pionowe\Stężenie pionowe\bin\Debug\Stężenie pionowe.exe.config
+C:\Users\Paweł\Desktop\openAPI\aplikacje\stężenie pionowe\Stężenie pionowe\Stężenie pionowe\bin\Debug\Stężenie pionowe.exe
+C:\Users\Paweł\Desktop\openAPI\aplikacje\stężenie pionowe\Stężenie pionowe\Stężenie pionowe\bin\Debug\Stężenie pionowe.pdb
+C:\Users\Paweł\Desktop\openAPI\aplikacje\stężenie pionowe\Stężenie pionowe\ObjDir\2019\Stężenie pionowe\Stężenie pionowe.csprojAssemblyReference.cache
+C:\Users\Paweł\Desktop\openAPI\aplikacje\stężenie pionowe\Stężenie pionowe\ObjDir\2019\Stężenie pionowe\Stężenie_pionowe.Form1.resources
+C:\Users\Paweł\Desktop\openAPI\aplikacje\stężenie pionowe\Stężenie pionowe\ObjDir\2019\Stężenie pionowe\Stężenie pionowe.csproj.GenerateResource.cache
+C:\Users\Paweł\Desktop\openAPI\aplikacje\stężenie pionowe\Stężenie pionowe\ObjDir\2019\Stężenie pionowe\Stężenie pionowe.csproj.CoreCompileInputs.cache
+C:\Users\Paweł\Desktop\openAPI\aplikacje\stężenie pionowe\Stężenie pionowe\ObjDir\2019\Stężenie pionowe\Stężenie pionowe.exe
+C:\Users\Paweł\Desktop\openAPI\aplikacje\stężenie pionowe\Stężenie pionowe\ObjDir\2019\Stężenie pionowe\Stężenie pionowe.pdb
