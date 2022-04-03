@@ -7,3 +7,13 @@ C:\Users\Paweł\Desktop\openAPI\aplikacje\stężenie pionowe\Stężenie pionowe\
 C:\Users\Paweł\Desktop\openAPI\aplikacje\stężenie pionowe\Stężenie pionowe\ObjDir\2019\Stężenie pionowe\Stężenie pionowe.csproj.CoreCompileInputs.cache
 C:\Users\Paweł\Desktop\openAPI\aplikacje\stężenie pionowe\Stężenie pionowe\ObjDir\2019\Stężenie pionowe\Stężenie pionowe.exe
 C:\Users\Paweł\Desktop\openAPI\aplikacje\stężenie pionowe\Stężenie pionowe\ObjDir\2019\Stężenie pionowe\Stężenie pionowe.pdb
+E:\Repos\st-enie-pionowe\ObjDir\2019\Stężenie pionowe\Stężenie pionowe.exe
+E:\Repos\st-enie-pionowe\ObjDir\2019\Stężenie pionowe\Stężenie pionowe.pdb
+E:\Repos\st-enie-pionowe\Stężenie pionowe\bin\Debug\Stężenie pionowe.exe.config
+E:\Repos\st-enie-pionowe\Stężenie pionowe\bin\Debug\Stężenie pionowe.exe
+E:\Repos\st-enie-pionowe\Stężenie pionowe\bin\Debug\Stężenie pionowe.pdb
+E:\Repos\st-enie-pionowe\ObjDir\2019\Stężenie pionowe\Stężenie pionowe.csproj.AssemblyReference.cache
+E:\Repos\st-enie-pionowe\ObjDir\2019\Stężenie pionowe\Stężenie pionowe.csproj.SuggestedBindingRedirects.cache
+E:\Repos\st-enie-pionowe\ObjDir\2019\Stężenie pionowe\Stężenie_pionowe.Form1.resources
+E:\Repos\st-enie-pionowe\ObjDir\2019\Stężenie pionowe\Stężenie pionowe.csproj.GenerateResource.cache
+E:\Repos\st-enie-pionowe\ObjDir\2019\Stężenie pionowe\Stężenie pionowe.csproj.CoreCompileInputs.cache

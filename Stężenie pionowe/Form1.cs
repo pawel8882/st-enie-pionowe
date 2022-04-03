@@ -172,6 +172,8 @@ namespace Stężenie_pionowe
                 MyModel.GetWorkPlaneHandler().SetCurrentTransformationPlane(currentPlane);
                 //textBox1.Text = Convert.ToString(rotblachast);
                 blachast.Position.RotationOffset = -rotblachast;
+                blachast.PartNumber.Prefix = "PL";
+                blachast.PartNumber.StartNumber = 1001;
                 blachast.Modify();
 
 
@@ -184,6 +186,8 @@ namespace Stężenie_pionowe
                 double rotblachast2 = (blachast4 as Beam).Position.RotationOffset;
                 MyModel.GetWorkPlaneHandler().SetCurrentTransformationPlane(currentPlane);
                 blachast2.Position.RotationOffset = -rotblachast2;
+                blachast2.PartNumber.Prefix = "PL";
+                blachast2.PartNumber.StartNumber = 1001;
                 blachast2.Modify();
 
                 Point p15 = new Point(p12);
@@ -219,6 +223,8 @@ namespace Stężenie_pionowe
                 MyModel.GetWorkPlaneHandler().SetCurrentTransformationPlane(currentPlane);
                 //textBox1.Text = Convert.ToString(rotblachast);
                 BlSt1.Position.RotationOffset = -rot5;
+                BlSt1.PartNumber.Prefix = "PL";
+                BlSt1.PartNumber.StartNumber = 1001;
                 BlSt1.Modify();
 
                 Beam BlSt2 = BlachaSt(p161, p162, 1);
@@ -231,6 +237,8 @@ namespace Stężenie_pionowe
                 MyModel.GetWorkPlaneHandler().SetCurrentTransformationPlane(currentPlane);
                 //textBox1.Text = Convert.ToString(rotblachast);
                 BlSt2.Position.RotationOffset = -rot6;
+                BlSt2.PartNumber.Prefix = "PL";
+                BlSt2.PartNumber.StartNumber = 1001;
                 BlSt2.Modify();
 
                 Beam St12 = CreateStezenie12(p153, p163);
@@ -240,11 +248,15 @@ namespace Stężenie_pionowe
                 MyModel.GetWorkPlaneHandler().SetCurrentTransformationPlane(setWorkPlane(st1, vl3, v1));
                 ModelObject stezenie1 = MyModel.SelectModelObject(id15);
                 (stezenie1 as Beam).StartPointOffset.Dy = 4;
+                (stezenie1 as Part).PartNumber.Prefix = "Pr";
+                (stezenie1 as Part).PartNumber.StartNumber = 1001;
                 stezenie1.Modify();
                 MyModel.GetWorkPlaneHandler().SetCurrentTransformationPlane(currentPlane);
                 MyModel.GetWorkPlaneHandler().SetCurrentTransformationPlane(setWorkPlane(st2, vl5, v2));
                 ModelObject stezenie2 = MyModel.SelectModelObject(id15);
                 (stezenie2 as Beam).EndPointOffset.Dy = -6;
+                (stezenie2 as Part).PartNumber.Prefix = "Pr";
+                (stezenie2 as Part).PartNumber.StartNumber = 1001;
                 stezenie2.Modify();
                 MyModel.GetWorkPlaneHandler().SetCurrentTransformationPlane(currentPlane);
 
@@ -260,6 +272,8 @@ namespace Stężenie_pionowe
                 MyModel.GetWorkPlaneHandler().SetCurrentTransformationPlane(setWorkPlane(st1, vl3, v1));
                 ModelObject b1m = MyModel.SelectModelObject(id16);
                 (b1m as BoltArray).Position.RotationOffset = 0;
+                (b1m as BoltArray).BoltStandard = "4017-8.8";
+                (b1m as BoltArray).ExtraLength = 5;
                 b1m.Modify();
                 MyModel.GetWorkPlaneHandler().SetCurrentTransformationPlane(currentPlane);
 
